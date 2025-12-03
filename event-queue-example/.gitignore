@@ -1,0 +1,5 @@
+target~
+bin
+src-adpgenerated
+.scannerwork
+.settings/org.sonarlint.eclipse.core.prefs
