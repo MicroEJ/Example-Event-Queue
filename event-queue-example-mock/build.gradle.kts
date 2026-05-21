@@ -14,5 +14,6 @@ dependencies {
 
 	implementation(libs.api.edc)
 
-	implementation(group = "com.microej.pack.event", name = "event-pack", version = "2.0.1", configuration = "mockAPI")
+	implementation("com.microej.pack.event:event-mock-api:3.0.3")
+	//implementation(group = "com.microej.pack.event", name = "event-pack", version = "2.0.1", configuration = "mockAPI")
 }

@@ -23,6 +23,8 @@ dependencies {
 
 	// Uncomment the microejVee dependency to set the VEE Port or Kernel to use
 	//microejVee(libs.veeport.nxp.mimxrt1170)
+	microejVee(files("C:/Users/hmelehi/nxpvee-mimxrt1170-prj/nxpvee-mimxrt1170-evk"))
+
 }
 
 
